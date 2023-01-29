@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @allanplobo
 - 👀 I’m interested in Front End with Angular.
-- 🌱 I’m currently learning C#;
+- 🌱 I’m currently learning NodeJS;
 - 📫 allanplobo@gmail.com
 
 <!---
